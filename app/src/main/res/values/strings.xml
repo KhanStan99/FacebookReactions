@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Facebook Reactions</string>
+
+    <string name="postStatus">Post Reaction: </string>
+    <string name="like">LIKE</string>
+    <string name="love">LOVE</string>
+    <string name="haha">HAHA</string>
+    <string name="sad">SAD</string>
+    <string name="shock">WOW</string>
+    <string name="angry">ANGRY</string>
+
+    <string name="thanks">Thanks For Trying</string>
+    <string name="contactMe">
+    Facebook: fb/User.KhanStan \n
+        Instagram: fb/KhanStan99
+    </string>
+</resources>
